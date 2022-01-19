@@ -19,3 +19,10 @@ After these steps, docker will download all necessary tools and will launch the 
 
 If you really enjoyed you can contact me on LinkedIn - https://www.linkedin.com/in/gabriel-araujo-dantas-aa4318117/ 
 
+When I will start a new project I like to think the simplest possible, so I choose for this project these frameworks and tools.
+
+I will start with the programming language, I choose Python because Python is a simple language, easy to work with JSON, has many database connectors, has many REST frameworks and I could implement it fast.
+
+I worked with the Flask framework because Flask is a light and fast REST framework and is easy to configure.
+
+I choose a Relational Database (MySQL) because is simpler than NoSQL databases to explain my model. MySQL was a SGDB I had installed on my PC.
