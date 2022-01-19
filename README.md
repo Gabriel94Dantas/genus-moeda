@@ -8,8 +8,11 @@ I have some observations to do yet. First of all, you have to sign up on https:/
 If you like this code and you want to run it, you need to follow these steps:
 
 1 - Clone the repository
+
 2 - Download Docker
+
 3 - Download docker-compose
+
 4 - Open your terminal and run docker-compose up -d --build command
 
 After these steps, docker will download all necessary tools and will launch the API on port 5001.
